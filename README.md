@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nazlı şahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazlı şahin" height="30" width="40" /></a>
 <a href="https://instagram.com/software_laddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="software_laddy" height="30" width="40" /></a>
-<a href="https://medium.com/@nazlışahi̇n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nazlışahi̇n" height="30" width="40" /></a>
+<a href="https://medium.com/@deniznazlisahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deniznazlisahin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazli2&show_icons=true&locale=en" alt="nazli2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazli2&" alt="nazli2" /></p>
+
