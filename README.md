@@ -39,11 +39,32 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazli2&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazli2&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+### 📝 GitHub Contribution Summary
+
+<div align="center" style="display: flex; gap: 20px; max-width: 600px; margin: auto;">
+  <div style="flex: 1; background: white; border-radius: 10px; padding: 25px 15px; box-shadow: 0 4px 12px rgb(0 0 0 / 0.15); text-align: center; color: #222;">
+    <h1 style="margin: 0; font-weight: 900; font-size: 40px;">29</h1>
+    <p style="margin: 6px 0 3px; font-weight: 600; font-size: 18px;">Total Contributions</p>
+    <small style="color: #666;">Jan 18, 2020 - Present</small>
+  </div>
+
+  <div style="flex: 1; background: white; border-radius: 10px; padding: 25px 15px; box-shadow: 0 4px 12px rgb(243 156 18 / 0.6); text-align: center; color: #f39c12;">
+    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#f39c12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 4px;">
+      <path d="M12 1v4"></path>
+      <circle cx="12" cy="14" r="7"></circle>
+    </svg>
+    <h1 style="margin: 4px 0 0; font-weight: 900; font-size: 40px;">0</h1>
+    <p style="margin: 6px 0 3px; font-weight: 700; font-size: 16px;">Current Streak</p>
+    <small style="color: #888;">Aug 19</small>
+  </div>
+
+  <div style="flex: 1; background: white; border-radius: 10px; padding: 25px 15px; box-shadow: 0 4px 12px rgb(39 174 96 / 0.6); text-align: center; color: #27ae60;">
+    <h1 style="margin: 0; font-weight: 900; font-size: 40px;">1</h1>
+    <p style="margin: 6px 0 3px; font-weight: 600; font-size: 18px;">Longest Streak</p>
+    <small style="color: #666;">Jan 18, 2020</small>
+  </div>
+</div>
+
 
 ---
 
