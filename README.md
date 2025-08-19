@@ -55,7 +55,6 @@
 ---
 
 ### 📝 GitHub Contribution Summary
-### 📝 GitHub Contribution Summary
 
 | <span style="color:#4dabf7">**152**</span> | <span style="color:#f39c12">**0**</span> | <span style="color:#27ae60">**5**</span> |
 |-----------------------|-----------------------|------------------------|
