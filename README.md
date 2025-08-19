@@ -55,25 +55,26 @@
 ---
 
 ### 📝 GitHub Contribution Summary
-<table align="center">
+<table align="center" style="border-collapse: collapse; width: 80%; text-align: center;">
   <tr>
-    <td align="center">
-      <h3>152</h3>
+    <td style="border: 1px solid #4dabf7; padding: 15px; border-radius: 10px; background: #152e4d; color: white;">
+      <h2>152</h2>
       <p>Total Contributions</p>
       <small>Sep 4, 2018 - Present</small>
     </td>
-    <td align="center">
-      <h3 style="color: #4dabf7;">0</h3>
+    <td style="border: 1px solid #f39c12; padding: 15px; border-radius: 10px; background: #3f2f0a; color: white;">
+      <h2 style="color: #f39c12;">0</h2>
       <p><b>Current Streak</b></p>
       <small>Aug 19</small>
     </td>
-    <td align="center">
-      <h3>5</h3>
+    <td style="border: 1px solid #27ae60; padding: 15px; border-radius: 10px; background: #134d27; color: white;">
+      <h2>5</h2>
       <p>Longest Streak</p>
       <small>Dec 26, 2023 - Dec 30, 2023</small>
     </td>
   </tr>
 </table>
+
 
 ---
 
