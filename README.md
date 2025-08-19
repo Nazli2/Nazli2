@@ -55,25 +55,29 @@
 ---
 
 ### 📝 GitHub Contribution Summary
-<table align="center" style="border-collapse: collapse; width: 80%; text-align: center;">
+<table align="center" style="border-collapse: collapse; width: 80%; max-width: 600px; text-align: center; font-family: Arial, sans-serif;">
   <tr>
-    <td style="border: 1px solid #4dabf7; padding: 15px; border-radius: 10px; background: #152e4d; color: white;">
-      <h2>152</h2>
-      <p>Total Contributions</p>
-      <small>Sep 4, 2018 - Present</small>
+    <td style="border: 1px solid #444; border-radius: 8px; padding: 20px; margin: 10px; background: #1e1e2f; color: #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+      <h1 style="color: #4dabf7; margin-bottom: 5px;">152</h1>
+      <hr style="border: 1px solid #444; margin: 5px 0 10px 0;">
+      <p style="font-weight: 600; margin: 0;">Total Contributions</p>
+      <small style="color: #888;">Sep 4, 2018 - Present</small>
     </td>
-    <td style="border: 1px solid #f39c12; padding: 15px; border-radius: 10px; background: #3f2f0a; color: white;">
-      <h2 style="color: #f39c12;">0</h2>
-      <p><b>Current Streak</b></p>
-      <small>Aug 19</small>
+    <td style="border: 1px solid #444; border-radius: 8px; padding: 20px; margin: 10px; background: #1e1e2f; color: #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+      <h1 style="color: #f39c12; margin-bottom: 5px;">0</h1>
+      <hr style="border: 1px solid #444; margin: 5px 0 10px 0;">
+      <p style="font-weight: 700; color: #f39c12; margin: 0;">Current Streak</p>
+      <small style="color: #888;">Aug 19</small>
     </td>
-    <td style="border: 1px solid #27ae60; padding: 15px; border-radius: 10px; background: #134d27; color: white;">
-      <h2>5</h2>
-      <p>Longest Streak</p>
-      <small>Dec 26, 2023 - Dec 30, 2023</small>
+    <td style="border: 1px solid #444; border-radius: 8px; padding: 20px; margin: 10px; background: #1e1e2f; color: #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+      <h1 style="color: #27ae60; margin-bottom: 5px;">5</h1>
+      <hr style="border: 1px solid #444; margin: 5px 0 10px 0;">
+      <p style="font-weight: 600; margin: 0;">Longest Streak</p>
+      <small style="color: #888;">Dec 26, 2023 - Dec 30, 2023</small>
     </td>
   </tr>
 </table>
+
 
 
 ---
