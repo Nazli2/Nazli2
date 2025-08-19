@@ -54,13 +54,6 @@
 
 ---
 
-### 📈 GitHub Contribution Summary
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nazli2/nazli2/main/assets/contribution-summary.png" alt="Contribution Summary" />
-</p>
-
----
-
 ### ✨ Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nazli2&label=Profile%20views&color=0e75b6&style=flat" alt="nazli2" />
