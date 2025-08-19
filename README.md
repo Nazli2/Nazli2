@@ -54,6 +54,29 @@
 
 ---
 
+### 📝 GitHub Contribution Summary
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>152</h3>
+      <p>Total Contributions</p>
+      <small>Sep 4, 2018 - Present</small>
+    </td>
+    <td align="center">
+      <h3 style="color: #4dabf7;">0</h3>
+      <p><b>Current Streak</b></p>
+      <small>Aug 19</small>
+    </td>
+    <td align="center">
+      <h3>5</h3>
+      <p>Longest Streak</p>
+      <small>Dec 26, 2023 - Dec 30, 2023</small>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### ✨ Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nazli2&label=Profile%20views&color=0e75b6&style=flat" alt="nazli2" />
