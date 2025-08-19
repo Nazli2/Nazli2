@@ -55,30 +55,31 @@
 ---
 
 ### 📝 GitHub Contribution Summary
-<table align="center" style="border-collapse: collapse; width: 80%; max-width: 600px; text-align: center; font-family: Arial, sans-serif;">
+<table align="center" style="border-collapse: collapse; width: 80%; max-width: 600px; text-align: center; font-family: Arial, sans-serif; background: #fff; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.1);">
   <tr>
-    <td style="border: 1px solid #444; border-radius: 8px; padding: 20px; margin: 10px; background: #1e1e2f; color: #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      <h1 style="color: #4dabf7; margin-bottom: 5px;">152</h1>
-      <hr style="border: 1px solid #444; margin: 5px 0 10px 0;">
-      <p style="font-weight: 600; margin: 0;">Total Contributions</p>
-      <small style="color: #888;">Sep 4, 2018 - Present</small>
+    <td style="padding: 25px; border-right: 1px solid #ddd;">
+      <div style="font-weight: 700; font-size: 28px; color: #222;">152</div>
+      <div style="margin-top: 8px; font-size: 14px; color: #555;">Total Contributions</div>
+      <div style="margin-top: 5px; font-size: 12px; color: #888;">Sep 4, 2018 - Present</div>
     </td>
-    <td style="border: 1px solid #444; border-radius: 8px; padding: 20px; margin: 10px; background: #1e1e2f; color: #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      <h1 style="color: #f39c12; margin-bottom: 5px;">0</h1>
-      <hr style="border: 1px solid #444; margin: 5px 0 10px 0;">
-      <p style="font-weight: 700; color: #f39c12; margin: 0;">Current Streak</p>
-      <small style="color: #888;">Aug 19</small>
+    <td style="padding: 25px; border-right: 1px solid #ddd; position: relative;">
+      <div style="font-weight: 700; font-size: 28px; color: #f39c12; position: relative; display: inline-block; padding: 10px;">
+        0
+        <svg width="60" height="60" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="30" cy="30" r="27" stroke="#f39c12" stroke-width="4" />
+          <path d="M30 10V5M30 10C33 14 39 18 39 18M30 10C27 14 21 18 21 18" stroke="#f39c12" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div style="margin-top: 8px; font-size: 14px; font-weight: 700; color: #f39c12;">Current Streak</div>
+      <div style="margin-top: 5px; font-size: 12px; color: #888;">Aug 19</div>
     </td>
-    <td style="border: 1px solid #444; border-radius: 8px; padding: 20px; margin: 10px; background: #1e1e2f; color: #e0e0e0; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      <h1 style="color: #27ae60; margin-bottom: 5px;">5</h1>
-      <hr style="border: 1px solid #444; margin: 5px 0 10px 0;">
-      <p style="font-weight: 600; margin: 0;">Longest Streak</p>
-      <small style="color: #888;">Dec 26, 2023 - Dec 30, 2023</small>
+    <td style="padding: 25px; color: #27ae60;">
+      <div style="font-weight: 700; font-size: 28px; color: #27ae60;">5</div>
+      <div style="margin-top: 8px; font-size: 14px; color: #555;">Longest Streak</div>
+      <div style="margin-top: 5px; font-size: 12px; color: #888;">Dec 26, 2023 - Dec 30, 2023</div>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
