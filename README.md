@@ -39,34 +39,6 @@
 
 ---
 
-### 📝 GitHub Contribution Summary
-
-<div align="center" style="display: flex; gap: 20px; max-width: 600px; margin: auto;">
-  <div style="flex: 1; background: white; border-radius: 10px; padding: 25px 15px; box-shadow: 0 4px 12px rgb(0 0 0 / 0.15); text-align: center; color: #222;">
-    <h1 style="margin: 0; font-weight: 900; font-size: 40px;">29</h1>
-    <p style="margin: 6px 0 3px; font-weight: 600; font-size: 18px;">Total Contributions</p>
-    <small style="color: #666;">Jan 18, 2020 - Present</small>
-  </div>
-
-  <div style="flex: 1; background: white; border-radius: 10px; padding: 25px 15px; box-shadow: 0 4px 12px rgb(243 156 18 / 0.6); text-align: center; color: #f39c12;">
-    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#f39c12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom: 4px;">
-      <path d="M12 1v4"></path>
-      <circle cx="12" cy="14" r="7"></circle>
-    </svg>
-    <h1 style="margin: 4px 0 0; font-weight: 900; font-size: 40px;">0</h1>
-    <p style="margin: 6px 0 3px; font-weight: 700; font-size: 16px;">Current Streak</p>
-    <small style="color: #888;">Aug 19</small>
-  </div>
-
-  <div style="flex: 1; background: white; border-radius: 10px; padding: 25px 15px; box-shadow: 0 4px 12px rgb(39 174 96 / 0.6); text-align: center; color: #27ae60;">
-    <h1 style="margin: 0; font-weight: 900; font-size: 40px;">1</h1>
-    <p style="margin: 6px 0 3px; font-weight: 600; font-size: 18px;">Longest Streak</p>
-    <small style="color: #666;">Jan 18, 2020</small>
-  </div>
-</div>
-
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -77,12 +49,28 @@
 
 ### 📝 GitHub Contribution Summary
 
-| <span style="color:#4dabf7">**152**</span> | <span style="color:#f39c12">**0**</span> | <span style="color:#27ae60">**5**</span> |
-|-----------------------|-----------------------|------------------------|
-| Total Contributions   | Current Streak        | Longest Streak         |
-| Sep 4, 2018 - Present | Aug 19                | Dec 26, 2023 - Dec 30, 2023 |
+<div align="center" style="display: flex; gap: 20px; max-width: 600px; margin: 30px auto;">
 
+  <div style="flex: 1; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.15); text-align: center;">
+    <h1 style="margin: 0; font-weight: 900; font-size: 40px; color: #3b82f6;">29</h1>
+    <p style="margin: 10px 0 0; font-weight: 600; color: #111;">Total Contributions</p>
+    <small style="color: #555;">Jan 18, 2020 - Present</small>
+  </div>
 
+  <div style="flex: 1; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 8px rgb(243 156 18 / 0.4); text-align: center;">
+    <h1 style="margin: 0; font-weight: 900; font-size: 40px; color: #f39c12;">0</h1>
+    <p style="margin: 10px 0 0; font-weight: 700; color: #f39c12;">Current Streak</p>
+    <small style="color: #555;">Aug 19</small>
+  </div>
+
+  <div style="flex: 1; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 8px rgb(39 174 96 / 0.4); text-align: center;">
+    <h1 style="margin: 0; font-weight: 900; font-size: 40px; color: #27ae60;">1</h1>
+    <p style="margin: 10px 0 0; font-weight: 600; color: #27ae60;">Longest Streak</p>
+    <small style="color: #555;">Jan 18, 2020</small>
+  </div>
+
+</div>
+****
 ---
 
 ### ✨ Visitors
