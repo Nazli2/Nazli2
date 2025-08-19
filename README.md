@@ -47,31 +47,6 @@
 
 ---
 
-### 📝 GitHub Contribution Summary
-
-<div align="center" style="display: flex; gap: 20px; max-width: 600px; margin: 30px auto;">
-
-  <div style="flex: 1; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 8px rgb(0 0 0 / 0.15); text-align: center;">
-    <h1 style="margin: 0; font-weight: 900; font-size: 40px; color: #3b82f6;">29</h1>
-    <p style="margin: 10px 0 0; font-weight: 600; color: #111;">Total Contributions</p>
-    <small style="color: #555;">Jan 18, 2020 - Present</small>
-  </div>
-
-  <div style="flex: 1; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 8px rgb(243 156 18 / 0.4); text-align: center;">
-    <h1 style="margin: 0; font-weight: 900; font-size: 40px; color: #f39c12;">0</h1>
-    <p style="margin: 10px 0 0; font-weight: 700; color: #f39c12;">Current Streak</p>
-    <small style="color: #555;">Aug 19</small>
-  </div>
-
-  <div style="flex: 1; background: #fff; border-radius: 12px; padding: 25px; box-shadow: 0 4px 8px rgb(39 174 96 / 0.4); text-align: center;">
-    <h1 style="margin: 0; font-weight: 900; font-size: 40px; color: #27ae60;">1</h1>
-    <p style="margin: 10px 0 0; font-weight: 600; color: #27ae60;">Longest Streak</p>
-    <small style="color: #555;">Jan 18, 2020</small>
-  </div>
-
-</div>
-****
----
 
 ### ✨ Visitors
 <p align="center">
