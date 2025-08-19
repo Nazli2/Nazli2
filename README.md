@@ -47,6 +47,14 @@
 
 ---
 
+## 📋 GitHub Contribution Summary
+
+| ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-152-blue?style=for-the-badge&logo=github) | ![Current Streak](https://img.shields.io/badge/Current%20Streak-0-orange?style=for-the-badge&logo=firefox) | ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-5-green?style=for-the-badge&logo=firefox) |
+|---|---|---|
+| Sep 4, 2018 - Present | Aug 19 | Dec 26, 2023 - Dec 30, 2023 |
+
+---
+
 
 ### ✨ Visitors
 <p align="center">
