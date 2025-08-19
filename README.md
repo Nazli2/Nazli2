@@ -54,9 +54,9 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 GitHub Contribution Summary
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazli2&theme=radical" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/nazli2/nazli2/main/assets/contribution-summary.png" alt="Contribution Summary" />
 </p>
 
 ---
