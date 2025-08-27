@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazli2&show_icons=true&locale=en&theme=dark" alt="nazli2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazli2&theme=dark" alt="nazli2" /></p>
+
 
 ---
 
